@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CarShopy/static/css/main.b775dca7.css",
+    "main.js": "/CarShopy/static/js/main.b6333930.js",
+    "index.html": "/CarShopy/index.html",
+    "main.b775dca7.css.map": "/CarShopy/static/css/main.b775dca7.css.map",
+    "main.b6333930.js.map": "/CarShopy/static/js/main.b6333930.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b775dca7.css",
+    "static/js/main.b6333930.js"
+  ]
+}
